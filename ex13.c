@@ -1,5 +1,5 @@
 #include "REGX51.H"
-#include <INTRINS.h>
+#include "INTRINS.h"
 void time50ms(unsigned char i)
 {
 	unsigned char k;
